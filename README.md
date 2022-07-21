@@ -208,4 +208,6 @@ Other topics to explore (maybe for another time) as you implement WordPress on A
 
 Thanks for reading! 
 
-References https://d1.awsstatic.com/whitepapers/wordpress-best-practices-on-aws.pdf
+![References](https://d1.awsstatic.com/whitepapers/wordpress-best-practices-on-aws.pdf)
+
+*Author:  Hoang Kha*
